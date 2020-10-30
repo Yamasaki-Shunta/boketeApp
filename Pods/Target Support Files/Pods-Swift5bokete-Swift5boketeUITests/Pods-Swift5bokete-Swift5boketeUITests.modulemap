@@ -1,0 +1,6 @@
+framework module Pods_Swift5bokete_Swift5boketeUITests {
+  umbrella header "Pods-Swift5bokete-Swift5boketeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

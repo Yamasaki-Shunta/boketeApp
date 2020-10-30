@@ -1,0 +1,6 @@
+framework module Pods_Swift5bokete {
+  umbrella header "Pods-Swift5bokete-umbrella.h"
+
+  export *
+  module * { export * }
+}
